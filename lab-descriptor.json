@@ -4,5 +4,10 @@
   "discipline": "chemistry",
   "targetAudience": "UG Enggsdffds",
   "learningObjectives": "dsasfdfsd",
-  "experiments": []
+  "experiments": [
+    {
+      "name": "Exp1",
+      "folder": "exp1"
+    }
+  ]
 }
